@@ -12,9 +12,3 @@ OWNER AND CONTRIBUTERS:
 
 Owner: Jonathan Lynn
 Contributers: N/A
-
-*****************************
-CHANGELOG:
-*****************************
-
-29/06/2020 - README.md updated with Repository information
